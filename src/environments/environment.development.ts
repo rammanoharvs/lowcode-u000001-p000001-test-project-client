@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
   cookieExpiry: 60, ///in minutes
-  apiUrl: "https://7dcf-2401-4900-3305-3261-cda5-aee9-e1f5-6dcd.ngrok-free.app/api/api/",
+  apiUrl: " https://1f45-103-152-114-6.ngrok-free.app/api/api/",
 };
